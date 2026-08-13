@@ -8,13 +8,18 @@ import UseEffectDemo from './class_02/useEffectDemo'
 // import ProductsD from './class_03/ProductsD'
 // import StateExample from './class_01/StateExample'
 // https://github.com/Rupesh155
-import UseReducer from './class_04/UseReducer'
+// import UseReducer from './class_04/UseReducer'
+// import MemoDemo from './class_05/MemoDemo'
+import Interview from './class_06/Interview'
+
 const App = () => {
   return (
     <div>
       {/* <StateExample/> */}
+      <Interview/>
        {/* <UseEffectDemo/> */}
-       <UseReducer/>
+      {/* <MemoDemo/> */} 
+       {/* <UseReducer/> */}
        {/* <NavBar/> */}
        {/* http://localhost:5173/p/1 */}
        {/* <Routes>
